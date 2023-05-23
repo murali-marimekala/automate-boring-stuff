@@ -1,0 +1,1 @@
+@py.exe C:\Murali\Python\Automate-boring-stuff\automate-boring-stuf\mapit.py
